@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steve 
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on generative art projects, or vanilla javascript for practice.
 - 📫 How to reach me ...
 
 <!---
