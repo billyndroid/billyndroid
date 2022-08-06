@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steve 
 - 👀 I’m interested in front end web development. 
 - 
-- J have been using Adobe Photoshop/Illustrator and After Effects for around twelve years and been learning HTML and CSS for around a two years. I have also been learning vanilla Javascript. 
+- I have been using Adobe Photoshop/Illustrator and After Effects for around twelve years and been learning HTML and CSS for around two years. I have also been learning vanilla Javascript. 
 
 - Looking forward to improving Javascript, building some new projects, getting to grips with JQuery and React, collaborating with some folks on open source projects and getting employment as a front-end developer. 
 - 
